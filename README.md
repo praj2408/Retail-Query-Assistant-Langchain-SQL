@@ -1,3 +1,2 @@
-Retail-Query-Assistant-NaturalSQL
-NaturalSQL is a tool to support users who see SQL databases as a barrier to actionable insights. Taking your natural language question as input, it uses a generative text model to write a SQL statement based on your data model. Then runs it on your database and analyses the results. And it does this all at no cost using HuggingFace Inference API.
-
+# Retail-Query-Assistant
+Retail Query Assistant is an application that converts natural language queries into SQL statements, specifically designed for retail data management. This project leverages advanced natural language processing technologies to make database querying accessible to users without SQL knowledge.
