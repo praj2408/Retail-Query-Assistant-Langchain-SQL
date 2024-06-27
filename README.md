@@ -33,7 +33,8 @@ conda activate venv
 ```
 
 3. Install the required dependencies:
-```pip install -r requirements.txt
+```
+pip install -r requirements.txt
 ```
 
 4. Set up environment variables:
@@ -46,7 +47,8 @@ OPENAI_MODEL_NAME=gpt-3.5-turbo-0125
 ```
 
 5 Run the application:
-```streamlit run app.py
+```
+streamlit run app.py
 ```
 
 ## Usage
